@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  direction: rtl;
+  text-align: right;
+  padding: 10px;
+}
+input, button {
+  margin: 5px 0;
+  padding: 6px;
+  width: 90%;
+  max-width: 400px;
+}
+fieldset {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 15px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 5px;
+  text-align: center;
+}
